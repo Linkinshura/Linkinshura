@@ -4,6 +4,8 @@ I am currently a student at Technical School 35 of 18 Latzina
 
 I dont have any idea to contribuite now but in the future i´m gonna change this info
 
+I´m a [SantiagoTrini](https://github.com/santiagotrini) fan and he is my inspiration
+
 <!--
 **Linkinshura/Linkinshura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
