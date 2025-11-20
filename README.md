@@ -7,30 +7,30 @@ Tambien me considero un fan de **[Santiago Trini](https://github.com/santiagotri
 ## **Tecnologias conocidas:**
 <table>
   <tr>
-    <td align="center" width="10%">
+    <td align="center" width="40%">
       <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     </td>
-    <td align="center" width="10%">
+    <td align="center" width="40%">
       <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     </td>
-    <td align="center" width="10%">
+    <td align="center" width="40%">
       <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     </td>
-    <td align="center" width="10%">
+    <td align="center" width="40%">
       <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     </td>
   </tr>
   <tr>
-    <td align="center" width="10%">
+    <td align="center" width="40%">
       <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </td>
-    <td align="center" width="10%">
+    <td align="center" width="40%">
       <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     </td>
-    <td align="center" width="10%">
+    <td align="center" width="40%">
       <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     </td>
-   <td align="center" width="10%">
+   <td align="center" width="40%">
       <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </td>
   </tr>
@@ -43,7 +43,6 @@ Tambien me considero un fan de **[Santiago Trini](https://github.com/santiagotri
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Linkinshura&color=blue" />
 </p>
-
 
 <hr>
 
