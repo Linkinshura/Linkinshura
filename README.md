@@ -35,3 +35,22 @@ Tambien me considero un fan de [Santiago Trini](https://github.com/santiagotrini
     </td>
   </tr>
 </table>
+
+
+
+## Gracias por visitar mi perfil.
+
+![Cantidad Visitas](https://profile-counter.glitch.me/Linkinshura/count.svg)
+
+<hr>
+
+## Contacto:
+
+<p>
+  <a href="https://github.com/Linkinshura">
+    <img src="https://img.shields.io/badge/-Linkinshura-black?logo=github&style=flat-square"/>
+  </a>
+  <a href="mailto:Ian.linkinshura@gmail.com">
+    <img src="https://img.shields.io/badge/-Ian.linkinshura@gmail.com-black?logo=gmail&style=flat-square"/>
+  </a>
+</p>
