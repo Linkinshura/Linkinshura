@@ -1,10 +1,10 @@
-# Hola, Soy Linkinshura
+# **Hola, Soy Linkinshura**
 
 Actualmente soy un alumno de la Escuela Tecnica 35 de 18
 
-Tambien me considero un fan de [Santiago Trini](https://github.com/santiagotrini)
+Tambien me considero un fan de **[Santiago Trini](https://github.com/santiagotrini)**
 
-## **Tecnologias conocidas:
+## **Tecnologias conocidas:**
 <table>
   <tr>
     <td align="center" width="10%">
