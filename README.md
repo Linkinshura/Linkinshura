@@ -41,8 +41,9 @@ Tambien me considero un fan de [Santiago Trini](https://github.com/santiagotrini
 ## Gracias por visitar mi perfil.
 
 <p align="center">
-  <img src="![](https://komarev.com/ghpvc/?username=Linkinshura)" alt="Contador de visitas">
+  <img src="https://komarev.com/ghpvc/?username=Linkinshura&color=blue" />
 </p>
+
 
 <hr>
 
