@@ -1,22 +1,37 @@
-## Hello, I'm Linkinshura
+# Hola, Soy Linkinshura
 
-I am currently a student at Technical School 35 of 18 Latzina
+Actualmente soy un alumno de la Escuela Tecnica 35 de 18
 
-I dont have any idea to contribuite now but in the future i´m gonna change this info
+Tambien me considero un fan de [Santiago Trini](https://github.com/santiagotrini)
 
-I´m a [Santiago Trini](https://github.com/santiagotrini) fan and he is my inspiration
-
-<!--
-**Linkinshura/Linkinshura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Tecnologias conocidas. :dolphin:**
+<table>
+  <tr>
+    <td align="center" width="10%">
+      <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    </td>
+    <td align="center" width="10%">
+      <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    </td>
+    <td align="center" width="10%">
+      <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    </td>
+    <td align="center" width="10%">
+      <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="10%">
+      <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </td>
+    <td align="center" width="10%">
+      <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    </td>
+    <td align="center" width="10%">
+      <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    </td>
+   <td align="center" width="10%">
+      <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </td>
+  </tr>
+</table>
