@@ -1,4 +1,4 @@
-# **Hola, Soy Linkinshura**
+# **Hola, Soy NeroShura**
 
 Actualmente soy un alumno de la Escuela Tecnica 35 de 18
 
