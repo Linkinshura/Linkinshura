@@ -4,6 +4,10 @@ Actualmente soy un alumno de la Escuela Tecnica 35 de 18
 
 Tambien me considero un fan de **[Santiago Trini](https://github.com/santiagotrini)**
 
+## Portfolio:
+
+**[Pagina](https://linkinshura.github.io/Pagina-Principal-/)*
+
 ## **Tecnologias conocidas:**
 <table>
   <tr>
