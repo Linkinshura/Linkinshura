@@ -6,9 +6,7 @@ Tambien me considero un fan de **[Santiago Trini](https://github.com/santiagotri
 
 ## Portfolio:
 <section>
-
-<a href="https://linkinshura.github.io/Pagina-Principal-/" target:_blank> Pagina </a>
-
+<a href="https://linkinshura.github.io/Pagina-Principal-/" target:_blank;> Pagina </a>
 </section>
 
 ## **Tecnologias conocidas:**
