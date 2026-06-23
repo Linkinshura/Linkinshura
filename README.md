@@ -2,7 +2,7 @@
 
 Actualmente soy un alumno de la Escuela Tecnica 35 de 18
 
-Tambien me considero un fan de **[Santiago Trini](https://github.com/santiagotrini)**
+Tambien me considero un fan de **[InsertaPerfilXP](https://github.com/cyssmoon)**
 
 ## Portfolio:
 <section>
