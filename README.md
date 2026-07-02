@@ -4,43 +4,21 @@ Actualmente soy un alumno de la Escuela Tecnica 35 de 18
 
 Tambien me considero un fan de la **[Empanada](https://github.com/cyssmoon)**
 
-## Portfolio:
-<section>
-<a href="https://linkinshura.github.io/Pagina-Principal-/" target:_blank;> Pagina </a>
-</section>
+## Portfolio
 
-## **Tecnologias conocidas:**
-<table>
-  <tr>
-    <td align="center" width="40%">
-      <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    </td>
-    <td align="center" width="40%">
-      <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    </td>
-    <td align="center" width="40%">
-      <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    </td>
-    <td align="center" width="40%">
-      <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="40%">
-      <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </td>
-    <td align="center" width="40%">
-      <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-    </td>
-    <td align="center" width="40%">
-      <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    </td>
-   <td align="center" width="40%">
-      <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://linkinshura.github.io/Pagina-Principal-/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visitar%20Portfolio-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
+---
+
+## Tecnologías conocidas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,mysql,github&theme=dark&perline=4" alt="Tecnologías conocidas" />
+</p>
 
 
 ## Gracias por visitar mi perfil.
