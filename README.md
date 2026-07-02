@@ -2,7 +2,7 @@
 
 Actualmente soy un alumno de la Escuela Tecnica 35 de 18
 
-Tambien me considero un fan de **[InsertaPerfilXP](https://github.com/cyssmoon)**
+Tambien me considero un fan de la **[Empanada](https://github.com/cyssmoon)**
 
 ## Portfolio:
 <section>
